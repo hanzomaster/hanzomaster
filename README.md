@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtvt.visitor-badge)
+![visitors](https://gpvc.arturio.dev/hanzomaster?v=3)
 ### Hello 👋, my name is Thinh a.k.a Hanzo
 
 - 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/).  
