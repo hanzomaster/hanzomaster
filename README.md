@@ -10,5 +10,10 @@
 
 ### Contributions 📈
 <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzomaster&langs_count=3&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api?username=hanzomaster&show_icons=true&theme=onedark&count_private=true&hide_border=true" />
 </p>
+
+<br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=hanzomaster&theme=github" />
+<br/>
