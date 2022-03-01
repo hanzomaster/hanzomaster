@@ -10,8 +10,9 @@
 
 ### Contributions 📈
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzomaster&langs_count=3&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzomaster&langs_count=3&theme=onedark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=hanzomaster&show_icons=true&theme=onedark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzomaster&theme=onedark&hide_border=true" />
 </p>
 
 <br/>
