@@ -1,13 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=hanzomaster&icon=5&color=12)](https://visitcount.itsvg.in)
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Thinh a.k.a Hanzo
 
-- 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/).  
-- 👨🏻 I'm currently learning new things and I would love to engage in any project
+- 👨‍🎓 Junior at [UET-VNU](https://uet.vnu.edu.vn/).  
+- 👨🏻 I am eager to learn new things and would love to engage in any project
 - 📫 You can reach me through:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Hanzomaster2002)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hanzo_master)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11399551) 
+> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Hanzomaster2002)
+> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hanzo_master)
+> [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11399551) 
 
 ### Contributions 📈
 <p>
