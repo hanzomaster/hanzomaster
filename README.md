@@ -51,10 +51,6 @@ public class SoftwareEngineer {
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hanzomaster&theme=dark&hide_border=true&background=22272e&ring=6aa6f8&fire=DD2727&currStreakLabel=6aa6f8" alt="Hanzo's GitHub Streak" />
 </a>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanzomaster&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📊 Contribution Graph
 
 ![Hanzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzomaster&theme=one-dark&hide_border=true&custom_title=Hanzo's%20Contribution%20Graph)
