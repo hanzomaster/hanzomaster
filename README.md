@@ -27,6 +27,11 @@ public class SoftwareEngineer {
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Hanzomaster2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinh_tran_hanzo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/hanzomaster/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11399551) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/hanzomaster/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:thinhrom11@gmail.com)
 
+## 📝 Blogs & Sites
+
+- Personal website and blog: https://hanzomaster.dev/
+- LeetCode solutions: https://hanzomaster.dev/leetcode/
+
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**
